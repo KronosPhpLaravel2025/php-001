@@ -153,7 +153,7 @@ $bool = true;
 $status = false;
 ```
 
-- **NULL**: Il tipo di dato booleano può rappresentare solo due valori: true e false (vero e falso ).
+- **NULL**: Il tipo di dato nullo non ha alcun riferimento con altri dati primitivi.
 
 ```php
 $null = null;
